@@ -16,4 +16,8 @@ public class Calculator {
         }
         return (double) number1 / number2;
     }
+    public static double sousTract(int numb1, int numb2){
+        int result = numb1 - numb2;
+        return result;
+    }
 }
